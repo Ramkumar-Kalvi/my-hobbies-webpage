@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Croissant+One&family=Poppins:wght@400;600&display=swap");
+body {
+  background-color: aqua;
+  font-family: "Croissant One", cursive;
+  font-family: "Poppins", sans-serif;
+}
+
+img {
+  width: 300px;
+}
